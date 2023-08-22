@@ -39,7 +39,7 @@ Crafted captivating digital landscapes with Web Fundamentals and JavaScript, uti
 Demonstrated expertise in projects like:
 - [Chrome Extension](https://github.com/PotzarellaMozarella/Lead-Tracker_Chrome-extension): Lead tracking tool
 - [Blackjack Game](https://black-jack-game-alpha.vercel.app): Engaging game
-- [Form A Story[](https://form-a-story-azure.vercel.app): Interactive web application for reimagining tales
+- [Form A Story](https://form-a-story-azure.vercel.app): Interactive web application for reimagining tales
 - [Piano Keys](https://piano-keys.vercel.app): Interactive game for beginner-level piano students
 
 ### React
