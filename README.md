@@ -25,7 +25,7 @@ Tech stack included Next.js, Node.js, MongoDB Atlas, Mongoose, and MaterialUI.
 - [Performance metrics](https://drive.google.com/file/d/1QbyXX3CgT31CGUqsk6pb6mVq1E52ItAn/view) 
 - [Demo videos](https://www.youtube.com/watch?v=MNFZex2UzBc&list=PLpqbIzYggb_yGfrrcruuKkjdJoy3TVyvd&ab_channel=Parisha)
 
-  ## Tech Stack Proficiency 🛠️
+## Tech Stack Proficiency 🛠️
 
 ### JavaScript
 
