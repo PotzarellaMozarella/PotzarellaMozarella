@@ -13,8 +13,6 @@ Passionate about creativity and adept at problem-solving, I bring an 8-year jour
 ## Proficiencies 🛠️
 
 - Proficient in sales and partnerships, I excel in clear, concise communication and effective collaboration with cross-functional teams.
-- Designed "HappyHead," a mental health platform that secured a prestigious gold award 🥇. The user-friendly interface fosters trust for users seeking mental health support, providing access to resources, professional communication, and progress tracking.
-- Shared insights through a comprehensive article on web application development published on [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop).
 
 ## Award-Winning Project: HappyHead 🏆
 
