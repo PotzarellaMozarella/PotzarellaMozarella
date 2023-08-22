@@ -2,35 +2,32 @@
 
 ## About Me 👩‍💻
 
-Passionate about creativity and adept at problem-solving, I bring an 8-year journey spanning E-commerce, Fintech, Apparel, Edtech, and SaaS to the realm of development.
+Passionate about creativity and adept at problem-solving, I bring an 8-year journey spanning E-commerce, Fintech, Apparel, Edtech, and SaaS to the realm of development. Throughout my career, I've merged aesthetics with a strategic mindset to craft exceptional experiences. From crafting captivating user interfaces to aligning designs with brand identities, I aim to create engaging digital journeys.
 
-Throughout my career, I've merged aesthetics with a strategic mindset to craft exceptional experiences. From crafting captivating user interfaces to aligning designs with brand identities, I aim to create engaging digital journeys.
+## Career Highlights 🚀
 
-At Amazon, I led 15+ smartphone launch campaigns, mapping user touchpoints for seamless user journeys from awareness to purchase, significantly boosting sales.
+- Led 15+ smartphone launch campaigns at Amazon, mapping user touchpoints for seamless user journeys from awareness to purchase, significantly boosting sales.
+- Spearheaded growth in 8 product categories with innovative, style-aligned design at CRED, enhancing user experiences and showcasing the synergy of innovation and design.
+- Led K12 Business functions in Edtech, setting targets, orchestrating growth, and collaborating across teams, elevating the business through pioneering marketing strategies.
 
-At CRED, I spearheaded growth in 8 product categories with innovative, style-aligned design, enhancing user experiences and showcasing the synergy of innovation and design.
+## Proficiencies 🛠️
 
-In Edtech, I led K12 Business functions, setting targets, orchestrating growth, and collaborating across teams, elevating the business through pioneering marketing strategies.
-
-Proficient in sales and partnerships, I excel in clear, concise communication and effective collaboration with cross-functional teams.
-
-One exemplar of my approach is "HappyHead," a mental health platform  that secured a prestigious gold award 🥇. I've also shared insights through a comprehensive article on web application development published on both [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop). I designed a user-friendly interface that exudes professionalism and approachability, fostering trust for users seeking mental health support. The seamless user journey provides access to resources, professional communication, and progress tracking. 
-
-My portfolio reveals a Chrome extension for lead tracking 📈, a playlist app Jammming 🎶, showcasing my expertise across UI/UX design, brand identity alignment, and creating immersive digital experiences.
-
-Beyond work, I indulge in reading 📚, ukulele playing 🎵, indoor rowing 🚣, writing 📝, singing 🎤, learning French 🇫🇷, and being a professional passenger seat occupier 🚗. I advocate for percussive maintenance ⚙️ and am a devoted fan of dark modes in apps 🌗.
-
-
-## Tech Stack Proficiency 🛠️
+- Proficient in sales and partnerships, I excel in clear, concise communication and effective collaboration with cross-functional teams.
+- Designed "HappyHead," a mental health platform that secured a prestigious gold award 🥇. The user-friendly interface fosters trust for users seeking mental health support, providing access to resources, professional communication, and progress tracking.
+- Shared insights through a comprehensive article on web application development published on [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop).
 
 ## Award-Winning Project: HappyHead 🏆
 
-A mental health platform won Gold at Pest Tech.
+"HappyHead," a mental health platform  that secured a prestigious gold award 🥇. I've also shared insights through a comprehensive article on web application development published on both [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop). 
+
+I designed a user-friendly interface that exudes professionalism and approachability, fostering trust for users seeking mental health support. The seamless user journey provides access to resources, professional communication, and progress tracking. 
 
 Tech stack included Next.js, Node.js, MongoDB Atlas, Mongoose, and MaterialUI.
 
 - [Performance metrics](https://drive.google.com/file/d/1QbyXX3CgT31CGUqsk6pb6mVq1E52ItAn/view) 
-- [Demo videos](https://www.youtube.com/watch?v=MNFZex2UzBc&list=PLpqbIzYggb_yGfrrcruuKkjdJoy3TVyvd&ab_channel=Parisha) 
+- [Demo videos](https://www.youtube.com/watch?v=MNFZex2UzBc&list=PLpqbIzYggb_yGfrrcruuKkjdJoy3TVyvd&ab_channel=Parisha)
+
+  ## Tech Stack Proficiency 🛠️
 
 ### JavaScript
 
@@ -61,16 +58,27 @@ Demonstrated Node.js skill in backend development with significant projects leve
 
 Solved 54 problems on [Leetcode](https://leetcode.com/ParishaP/).
 
-## Tech Stack 🔧
 
-- React, Redux, Next.js
-- Node.js, Express.js
+## Beyond Work 🌟
+
+- Indulge in reading 📚, ukulele playing 🎵, indoor rowing 🚣, writing 📝, singing 🎤, learning French 🇫🇷, and being a professional passenger seat occupier 🚗.
+- Advocate for percussive maintenance ⚙️ and a devoted fan of dark modes in apps 🌗.
+
+My portfolio reveals a Chrome extension for lead tracking 📈, a playlist app Jammming 🎶, showcasing my expertise across UI/UX design, brand identity alignment, and creating immersive digital experiences.
+
+Check out my portfolio to explore my diverse projects and the tech stack I'm proficient in.
+
+## Tech Stack 🚀
+
+- React, Redux, NextJS
+- NodeJS, ExpressJS
 - MongoDB, MySQL, Mongoose
 - MaterialUI, Bootstrap
 - Vercel, Netlify
 
-## Connect with Me 🌐
+## Contact Information 📬
 
-- [LinkedIn](https://www.linkedin.com/in/parishap/)
-- [Portfolio Website](https://www.linkedin.com/in/parishap/)
-- [Medium](https://medium.com/@parisha.workshop)
+- LinkedIn: [parishap](https://www.linkedin.com/in/parishap/)
+- Portfolio Website: [parishap](https://www.linkedin.com/in/parishap/)
+- Medium: [parisha.workshop](https://medium.com/@parisha.workshop)
+
