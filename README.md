@@ -23,6 +23,15 @@ Beyond work, I indulge in reading 📚, ukulele playing 🎵, indoor rowing 🚣
 
 ## Tech Stack Proficiency 🛠️
 
+## Award-Winning Project: HappyHead 🏆
+
+A mental health platform won Gold at Pest Tech.
+
+Tech stack included Next.js, Node.js, MongoDB Atlas, Mongoose, and MaterialUI.
+
+- [Performance metrics](https://drive.google.com/file/d/1QbyXX3CgT31CGUqsk6pb6mVq1E52ItAn/view) 
+- [Demo videos](https://www.youtube.com/watch?v=MNFZex2UzBc&list=PLpqbIzYggb_yGfrrcruuKkjdJoy3TVyvd&ab_channel=Parisha) 
+
 ### JavaScript
 
 Crafted captivating digital landscapes with Web Fundamentals and JavaScript, utilizing HTML/CSS as a foundation.
@@ -47,15 +56,6 @@ Integrated third-party libraries for enhanced features.
 Demonstrated Node.js skill in backend development with significant projects leveraging Node.js, Express.js, Mongoose, and MongoDB for these projects:
 - Weather App using third-party APIs
 - Wealth Management App with user authentication and CRUD operations on financial data.
-
-## Award-Winning Project: HappyHead 🏆
-
-A mental health platform won Gold at Pest Tech.
-
-Tech stack included Next.js, Node.js, MongoDB Atlas, Mongoose, and MaterialUI.
-
-- Performance metrics
-- Demo videos
 
 ## DSA 🧩
 
