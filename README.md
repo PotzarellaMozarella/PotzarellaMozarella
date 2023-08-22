@@ -37,29 +37,29 @@ Tech stack included Next.js, Node.js, MongoDB Atlas, Mongoose, and MaterialUI.
 Crafted captivating digital landscapes with Web Fundamentals and JavaScript, utilizing HTML/CSS as a foundation.
 
 Demonstrated expertise in projects like:
-- Chrome Extension: Lead tracking tool
-- Blackjack Game: Engaging game
-- Form A Story: Interactive web application for reimagining tales
-- Piano Keys: Interactive game for beginner-level piano students
+- [Chrome Extension](https://github.com/PotzarellaMozarella/Lead-Tracker_Chrome-extension): Lead tracking tool
+- [Blackjack Game](https://black-jack-game-alpha.vercel.app): Engaging game
+- [Form A Story[](https://form-a-story-azure.vercel.app): Interactive web application for reimagining tales
+- [Piano Keys](https://piano-keys.vercel.app): Interactive game for beginner-level piano students
 
 ### React
 
 Constructed seamless UI/UX for HappyHead's frontend using NextJS, hooks, and MaterialUI.
 Developed other projects below using React, Redux, and Bootstrap:
-- Jammming: a playlist app using Spotify API
-- To-do List
-- URL Shortener
+- [Jammming](https://jamming-with-spotify-10gjn1xyr-potzarellamozarella.vercel.app): a playlist app using Spotify API
+- [To-do List](https://pesto-projects-ovki.vercel.app)
+- [URL Shortener](https://smolurlshortener.netlify.app)
 Integrated third-party libraries for enhanced features.
 
 ### Node.js
 
 Demonstrated Node.js skill in backend development with significant projects leveraging Node.js, Express.js, Mongoose, and MongoDB for these projects:
-- Weather App using third-party APIs
-- Wealth Management App with user authentication and CRUD operations on financial data.
+- [Weather App using third-party APIs](https://weather-app-210i.onrender.com/)
+- [Wealth Management App](https://github.com/PotzarellaMozarella/Pesto-Projects/tree/master/Week-14/wealthapp): with user authentication and CRUD operations on financial data.
 
 ## DSA 🧩
 
-Solved 54 problems on Leetcode.
+Solved 54 problems on Leetcode[Leetcode](https://leetcode.com/ParishaP/).
 
 ## Tech Stack 🔧
 
