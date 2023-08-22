@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-# Parisha's Profile Intro 👩‍💻
-
-## About Me 🌟
+## About Me 👩‍💻
 
 Passionate about creativity and adept at problem-solving, I bring an 8-year journey spanning E-commerce, Fintech, Apparel, Edtech, and SaaS to the realm of development.
 
@@ -18,15 +16,10 @@ Proficient in sales and partnerships, I excel in clear, concise communication an
 
 One exemplar of my approach is "HappyHead," a mental health platform  that secured a prestigious gold award 🥇. I've also shared insights through a comprehensive article on web application development published on both [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop). I designed a user-friendly interface that exudes professionalism and approachability, fostering trust for users seeking mental health support. The seamless user journey provides access to resources, professional communication, and progress tracking. 
 
+My portfolio reveals a Chrome extension for lead tracking 📈, a playlist app Jammming 🎶, showcasing my expertise across UI/UX design, brand identity alignment, and creating immersive digital experiences.
+
 Beyond work, I indulge in reading 📚, ukulele playing 🎵, indoor rowing 🚣, writing 📝, singing 🎤, learning French 🇫🇷, and being a professional passenger seat occupier 🚗. I advocate for percussive maintenance ⚙️ and am a devoted fan of dark modes in apps 🌗.
 
-## Profile Summary 🚀
-
-With 8+ years of leadership experience at Amazon, CRED, Unacademy and more, I've orchestrated remarkable growth, contributing to revenue surpassing $20M and spearheading over 100 impactful brand campaigns, amassing a transaction value exceeding $1B.
-
-As I transition into development, my accomplishments include designing a MERN Stack mental health project that secured a prestigious gold award 🥇. I've also shared insights through a comprehensive article on web application development published on both [LinkedIn](https://www.linkedin.com/in/parishap/) and [Medium](https://medium.com/@parisha.workshop).
-
-My portfolio reveals a Chrome extension for lead tracking 📈, a playlist app Jammming 🎶, showcasing my expertise across UI/UX design, brand identity alignment, and creating immersive digital experiences.
 
 ## Tech Stack Proficiency 🛠️
 
