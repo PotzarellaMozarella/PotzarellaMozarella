@@ -59,7 +59,7 @@ Demonstrated Node.js skill in backend development with significant projects leve
 
 ## DSA 🧩
 
-Solved 54 problems on Leetcode[Leetcode](https://leetcode.com/ParishaP/).
+Solved 54 problems on [Leetcode](https://leetcode.com/ParishaP/).
 
 ## Tech Stack 🔧
 
