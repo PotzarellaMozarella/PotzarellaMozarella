@@ -52,7 +52,7 @@ Demonstrated Node.js skill in backend development with significant projects leve
 - [Weather App using third-party APIs](https://weather-app-210i.onrender.com/)
 - [Wealth Management App](https://github.com/PotzarellaMozarella/Pesto-Projects/tree/master/Week-14/wealthapp): with user authentication and CRUD operations on financial data.
 
-## DSA 🧩
+### DSA 🧩
 
 Solved 54 problems on [Leetcode](https://leetcode.com/ParishaP/).
 
