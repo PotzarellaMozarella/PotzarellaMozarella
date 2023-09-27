@@ -78,5 +78,4 @@ Check out my portfolio to explore my diverse projects and the tech stack I'm pro
 
 - [LinkedIn](https://www.linkedin.com/in/parishap/)
 - [Portfolio Website](https://developer-portfolio-bay-one.vercel.app/)
-- [Medium](https://medium.com/@parisha.workshop)
-
+- [Medium](https://medium.com/@PixelsAndPersonas)
