@@ -70,11 +70,11 @@ Check out my portfolio to explore my diverse projects and the tech stack I'm pro
 
 ## Tech Stack 🚀
 
-- React, Redux, NextJS
-- NodeJS, ExpressJS
-- MongoDB, MySQL, Mongoose
-- MaterialUI, Bootstrap
-- Vercel, Netlify
+- NextJS | React | Redux
+- NodeJS | ExpressJS | Supabase
+- MongoDB | MySQL | Mongoose
+- Tailwind CSS | MaterialUI | Bootstrap
+- Vercel | Netlify | Digital Ocean
 
 ## Contact Information 📬
 
