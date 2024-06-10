@@ -2,7 +2,7 @@
 
 ## About Me 👩‍💻
 
-Passionate about creativity and adept at problem-solving, I bring an 8-year journey spanning E-commerce, Fintech, Apparel, Edtech, and SaaS to the realm of development. Throughout my career, I've merged aesthetics with a strategic mindset to craft exceptional experiences. From crafting captivating user interfaces to aligning designs with brand identities, I aim to create engaging digital journeys.
+Passionate about creativity and adept at problem-solving, I bring an 9-year journey spanning E-commerce, Fintech, Apparel, Edtech, and SaaS (across marketing, sales, partnerships & growth roles) to the realm of development. Throughout my career, I've merged aesthetics with a strategic mindset to craft exceptional experiences. From crafting captivating user interfaces to aligning designs with brand identities, I aim to create engaging digital journeys.
 
 ## Career Highlights 🚀
 
