@@ -6,6 +6,8 @@ Passionate about creativity and adept at problem-solving, I bring an 9-year jour
 
 ## Career Highlights 🚀
 
+- Currently focused on building innovative solutions for risk management at RiskFrame.ai.
+- Transformed the existing desktop-only external user platform for KYC360's Riskscreen Onboarding product into a fully mobile-responsive platform, enhancing accessibility and user engagement.
 - Led 15+ smartphone launch campaigns at Amazon, mapping user touchpoints for seamless user journeys from awareness to purchase, significantly boosting sales.
 - Spearheaded growth in 8 product categories with innovative, style-aligned design at CRED, enhancing user experiences and showcasing the synergy of innovation and design.
 - Led K12 Business functions in Edtech, setting targets, orchestrating growth, and collaborating across teams, elevating the business through pioneering marketing strategies.
